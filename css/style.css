@@ -22,24 +22,25 @@
         
         
         .logo {
-            font-family: 'Crete Round', sans-serif;
-            font-size: 36px;
-            font-weight: 600;
-            color: #3b3f49;
-            margin-bottom: 20px;
+            font-family: 'Crete Round', monospace;
+            font-size: 44px;
+            font-weight: bold;
+            color: #060c31;
+            margin-bottom: 10px;
             letter-spacing: 1px;
         }
         
         .title {
-            font-family: 'Crete Round - Regular', sans-serif;
-            font-size: 55px;
+            font-family: 'Crete Round - Regular', monospace;
+            font-size: 58px;
             font-weight: 600;
             line-height: 1.2;
             margin-bottom: 25px;
-            color: #3b3f49;
+            color: #060c31;
         }
         
         .description {
+            font-family: 'Lato', monospace;
             font-size: 15px;
             font-weight: 700;
             margin-bottom: 40px;
@@ -60,7 +61,7 @@
             text-decoration: none;
             font-weight: 700;
             transition: all 0.3s ease;
-            font-family: 'Lato', sans-serif;
+            font-family: 'Lato', monospace;
             font-size: 16px;
             cursor: pointer;
         }
